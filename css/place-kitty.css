@@ -22,7 +22,7 @@
 }
 
 
-#ball + img{
+#ball + img {
   position: absolute;
   z-index: 4;
   top: 260px;
